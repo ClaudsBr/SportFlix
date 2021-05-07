@@ -15,6 +15,10 @@ body {
     color: white;
 }
 
+.fas fa-play {
+    text-decoration: none;
+}
+
 header .container{
     display: flex;
     flex-direction: row;

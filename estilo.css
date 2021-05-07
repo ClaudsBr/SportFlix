@@ -1,0 +1,16 @@
+.abertura {
+    background: url('img/ucl_campeoes.jpg');
+}
+
+h3 {
+    margin: 0;
+    height: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.50),rgba(0,0,0,0.50)100%),url('img/Liga-dos-Campeoes-da-Europa-trofeu.jpg');
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.texto{
+    color: gray; 
+
+}
