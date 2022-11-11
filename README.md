@@ -1,3 +1,3 @@
-# Projeto-SportFlix
+# SportFlix
 
-recriando uma plataforma de esportes similar a do netflix
+Um projeto que tenta criar uma plataforma só de esportes similar numa interface parecida com a do Netflix
